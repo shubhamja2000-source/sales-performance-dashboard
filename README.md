@@ -25,6 +25,8 @@ Order ID, Order Date, Region, Salesperson, Category, Product, Units, Unit Price,
 Files Included
 Sales_Performance_Dashboard.xlsx — Excel workbook containing the data, analysis, and dashboard.
 dashboard.png — Dashboard preview : <img width="530" height="317" alt="Screenshot 2026-10-16 204818" src="https://github.com/user-attachments/assets/674c4c10-74ce-4711-ae96-23aebe839c04" />
+
+
 How to Use
 Download the Excel workbook.
 Open it in Microsoft Excel.
